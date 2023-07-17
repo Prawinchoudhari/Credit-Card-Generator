@@ -8,5 +8,7 @@
 
 # Deployment Link
 
+https://credit-card-generator-theta.vercel.app/
+
 credit-card-generator-3zhupvsy0-prawinchoudhari.vercel.app
 
