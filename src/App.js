@@ -133,7 +133,7 @@ function App(){
         <input className="card-name-input"
           value={cardHolderName}
           type="text"
-          placeholder="e.g. Jane Appleseed"
+          placeholder="e.g. Praveen Choudhari"
           onChange={handleCardHolderChange}
         />
         {cardHolderError &&<div className="name-error">{cardHolderError}</div>}
