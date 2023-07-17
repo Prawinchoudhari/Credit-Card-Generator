@@ -1,12 +1,12 @@
-React JS Project
+# React JS Project
 
 **********************************************************************************************************************************************************************
 
-Micro Project -1 
+# Micro Project -1 
 
 **********************************************************************************************************************************************************************
 
-Deployment Link
+# Deployment Link
 
-[credit-card-generator-3zhupvsy0-prawinchoudhari.vercel.app]
+credit-card-generator-3zhupvsy0-prawinchoudhari.vercel.app
 
